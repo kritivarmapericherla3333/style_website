@@ -1,0 +1,52 @@
+body {
+    background-color: pink;
+    font-family: Arial;
+}
+.links{
+    background-color: lightgreen;
+    color: white;
+}
+
+.chocolate {
+    background-color: brown;
+    color: white;
+}
+
+.vanilla {
+    background-color: #fff5cc; /* cream */
+}
+
+.strawberry {
+    background-color: pink;
+}
+
+.butterscotch {
+    background-color: #f3c97a;
+}
+
+/* Left items frame */
+.left {
+    background-color: lightblue;
+}
+
+/* Menu frame */
+.menu {
+    background-color: lightgray;
+}
+
+.chocolate_pastry {
+    background-color: #5a2d0c;   /* dark brown */
+    color: white;
+}
+
+.pineapple_pastry {
+    background-color: #fff2a8;   /* light yellow */
+}
+
+.butterscotch_pastry {
+    background-color: #e0b973;   /* caramel */
+}
+
+.selected {
+    text-decoration: underline;
+}
